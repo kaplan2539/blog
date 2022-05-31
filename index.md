@@ -1,5 +1,5 @@
 ---
 title: My Blog
-layout: default
+layout: home
 ---
 # Hello blog
