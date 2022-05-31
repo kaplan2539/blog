@@ -1,2 +1,3 @@
 theme: jekyll-theme-hacker
-url: d.eadc0.de/blog
+url: https://d.eadc0.de
+baseurl: /blog
